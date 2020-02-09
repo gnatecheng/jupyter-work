@@ -1,0 +1,24 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "code_prettify/code_prettify": true,
+    "autosavetime/main": true,
+    "collapsible_headings/main": true,
+    "codefolding/main": true,
+    "varInspector/main": true,
+    "toc2/main": true,
+    "table_beautifier/main": true,
+    "execute_time/ExecuteTime": true,
+    "notify/notify": true,
+    "hinterland/hinterland": true,
+    "code_font_size/code_font_size": true,
+    "help_panel/help_panel": true,
+    "highlighter/highlighter": true,
+    "livemdpreview/livemdpreview": true,
+    "scratchpad/main": false
+  },
+  "livemdpreview": {
+    "show_side_by_side": false
+  }
+}

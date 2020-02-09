@@ -1,0 +1,10 @@
+.npm
+.yarn
+.local
+.ipython
+.ipynb_checkpoints
+.jupyter/.ipynb_checkpoints/
+.cache
+.bash_history
+mnist_dataset/mnist_train.csv
+makeyourownneuralnetwork/mnist_dataset/mnist_train.csv
