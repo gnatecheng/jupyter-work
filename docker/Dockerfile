@@ -1,4 +1,4 @@
-ARG BASE_CONTAINER=jupyter/scipy-notebook
+ARG BASE_CONTAINER=jupyter/tensorflow-notebook
 FROM $BASE_CONTAINER
 
 LABEL maintainer="Jupyter finely <chengyitang@gmail.com>"

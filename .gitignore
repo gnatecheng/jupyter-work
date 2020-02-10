@@ -4,13 +4,9 @@
 .ipython
 .ipynb_checkpoints
 .jupyter/.ipynb_checkpoints/
+.jupyter/lab/workspaces/
 .cache
 .bash_history
-# mnist_dataset/mnist_train.csv
-# mnist_dataset/mnist_train_100.csv
-# mnist_dataset/mnist_test.csv
-# mnist_dataset/mnist_test_10.csv
-# makeyourownneuralnetwork/mnist_dataset/mnist_train.csv
-# makeyourownneuralnetwork/mnist_dataset/mnist_train_100.csv
-# makeyourownneuralnetwork/mnist_dataset/mnist_test.csv
-# makeyourownneuralnetwork/mnist_dataset/mnist_test_10.csv
+mnist_dataset/*.csv
+makeyourownneuralnetwork/mnist_dataset/*.csv
+makeyourownneuralnetwork/mnist_dataset/*.gz

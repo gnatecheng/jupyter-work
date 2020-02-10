@@ -2,6 +2,7 @@
 
 image=continuumio/scipy-notebook
 image=gnatecheng/scipy-notebook
+image=gnatecheng/tensorflow-notebook
 name=$(basename $image)
 
 usage ()
